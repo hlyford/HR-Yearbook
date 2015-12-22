@@ -4,6 +4,7 @@ var LandingView = Backbone.View.extend({
   },
 
   render: function() {
+  	console.log('heyyy');
   }
 
 });

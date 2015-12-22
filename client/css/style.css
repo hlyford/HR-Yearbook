@@ -119,3 +119,11 @@ body {
   clear: both;
 }
 
+/* ======= STYLES ADDED BY HENRY ========== */
+
+  .home {
+    margin: 0 60% 0 10%;
+  }
+  .options {
+    margin: 0 10% 0 0;
+  }
